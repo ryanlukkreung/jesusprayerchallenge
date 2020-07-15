@@ -2,8 +2,8 @@ title:              Jesus Prayer 40
 email:              jp40@jesusprayerchallenge.com
 description:        Introduction to Eastern Catholic Spirituality
 author:             UGCC Canada
-baseurl:            ""
-url:                "https://ryanlukkreung.github.io/jesusprayerchallenge/"
+baseurl:            "/jesusprayerchallenge"
+url:                "https://ryanlukkreung.github.io"
 
 # Social Profiles
 twitter_username:
